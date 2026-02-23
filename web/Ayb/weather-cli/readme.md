@@ -10,7 +10,7 @@ npm install
 
 Create a .env file:
 
-API=your_api_key_here
+API= Opean Weather API Key
 
 ## Usage
 
